@@ -1,0 +1,9 @@
+C:\Users\andmi\Desktop\c#\krestiki_noliki\krestiki_noliki\bin\Debug\krestiki_noliki.exe.config
+C:\Users\andmi\Desktop\c#\krestiki_noliki\krestiki_noliki\bin\Debug\krestiki_noliki.exe
+C:\Users\andmi\Desktop\c#\krestiki_noliki\krestiki_noliki\bin\Debug\krestiki_noliki.pdb
+C:\Users\andmi\Desktop\c#\krestiki_noliki\krestiki_noliki\obj\Debug\krestiki_noliki.Properties.Resources.resources
+C:\Users\andmi\Desktop\c#\krestiki_noliki\krestiki_noliki\obj\Debug\krestiki_noliki.csproj.GenerateResource.cache
+C:\Users\andmi\Desktop\c#\krestiki_noliki\krestiki_noliki\obj\Debug\krestiki_noliki.csproj.CoreCompileInputs.cache
+C:\Users\andmi\Desktop\c#\krestiki_noliki\krestiki_noliki\obj\Debug\krestiki_noliki.exe
+C:\Users\andmi\Desktop\c#\krestiki_noliki\krestiki_noliki\obj\Debug\krestiki_noliki.pdb
+C:\Users\andmi\Desktop\c#\krestiki_noliki\krestiki_noliki\obj\Debug\krestiki_noliki.csprojAssemblyReference.cache
