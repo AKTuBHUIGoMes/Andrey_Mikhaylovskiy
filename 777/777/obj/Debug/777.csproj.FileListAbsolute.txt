@@ -1,0 +1,10 @@
+F:\c#\777\777\bin\Debug\777.exe.config
+F:\c#\777\777\bin\Debug\777.exe
+F:\c#\777\777\bin\Debug\777.pdb
+F:\c#\777\777\obj\Debug\777.csprojAssemblyReference.cache
+F:\c#\777\777\obj\Debug\_777.Form1.resources
+F:\c#\777\777\obj\Debug\_777.Properties.Resources.resources
+F:\c#\777\777\obj\Debug\777.csproj.GenerateResource.cache
+F:\c#\777\777\obj\Debug\777.csproj.CoreCompileInputs.cache
+F:\c#\777\777\obj\Debug\777.exe
+F:\c#\777\777\obj\Debug\777.pdb
