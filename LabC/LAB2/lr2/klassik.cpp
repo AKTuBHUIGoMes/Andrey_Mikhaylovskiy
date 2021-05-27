@@ -1,7 +1,7 @@
 #define _CRT_SECURE_NO_WARNINGS
 
 #include "klassik.h"
-
+#include <assert.h>
 
 
 
@@ -20,6 +20,17 @@ int correctInput()
             while(getchar() != 10);
     }
     return num;
+}
+
+double check(int as)
+{
+    return as/3.1;
+}
+int test_sum() {
+    assert(check(34) == 10.967742);
+    assert(check(60) == 19.354839);
+    assert(check(45) == 14.516129);
+    return 0;
 }
 
 void AnyButton()
