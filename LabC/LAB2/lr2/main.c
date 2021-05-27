@@ -6,6 +6,7 @@ int main()
 {
 
     menyBy();
-
+    test_sum();
+    printf("\ncomplete");
     return 0;
 }
