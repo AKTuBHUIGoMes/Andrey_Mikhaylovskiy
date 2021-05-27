@@ -4,10 +4,7 @@
 #include <klassik.cpp>
 int main()
 {
-    int as;
-//    scanf("%d",as);
-//    printf("%d",as);
-//    return 0;
+
     menyBy();
 
     return 0;
