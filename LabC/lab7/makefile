@@ -4,7 +4,7 @@ osnovanie:
 	g++ Real_7lab.cpp -o main
 
 glavni_test:
-	g++ -ftest-coverage -fprofile-arcs -O0 -o main_test betaTest.cpp DataClient.cpp
+	g++ -ftest-coverage -fprofile-arcs -O0 -o main_test Testirovka.cpp DataClient.cpp
 
 bezhatTest:
 	./main_test
