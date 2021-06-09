@@ -6,7 +6,7 @@ using namespace std;
 
 int main()
 {
-	assert(getData("VetromStat.txt") == 2282);
+	assert(getData("Testa.txt") == 2282);
 	showClients();
 	showGoods();
 	assert(	pushClient("","","") == 2283);
@@ -17,5 +17,5 @@ int main()
 	CalculatePrice() ;
 	ProfitBad();
 	ProfitGood() ;
-	assert(setData("VetromStat.txt") == 2281);
+	assert(setData("Testa.txt") == 2281);
 }
