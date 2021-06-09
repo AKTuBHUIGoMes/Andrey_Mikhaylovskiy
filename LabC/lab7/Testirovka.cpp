@@ -12,8 +12,8 @@ int main()
 	assert(	pushClient("","","") == 2283);
 	assert(pushGood(1,1,"massiv",123,456,"hahah","check") == 1);
 	assert(deleter(5) == 2287);
-	assert(getData("VetromStat.txt") == 2282);
-	assert(getData("VetromStat.txt") == 2282);
+	assert(getData("Testa.txt") == 2282);
+	assert(getData("Testa.txt") == 2282);
 	CalculatePrice() ;
 	ProfitBad();
 	ProfitGood() ;
