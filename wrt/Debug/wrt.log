@@ -1,0 +1,5 @@
+﻿  wrt.cpp
+C:\Users\andmi\source\repos\wrt\wrt\wrt.cpp(14,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\andmi\source\repos\wrt\wrt\wrt.cpp(18,24): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\andmi\source\repos\wrt\wrt\wrt.cpp(41,14): warning C4018: >: несоответствие типов со знаком и без знака
+  wrt.vcxproj -> C:\Users\andmi\source\repos\wrt\Debug\wrt.exe
