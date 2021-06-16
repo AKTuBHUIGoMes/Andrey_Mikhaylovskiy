@@ -9,7 +9,7 @@ int main()
 	string strIn, strOut, strWrite;
 	cin >> strIn >> strOut;
 	int sqrSize = 0;
-	for (int i = 1; i < strIn.size(); i++)
+	for (int i = 1; i < strIn.size(); i++) // sqr root 
 	{
 		if (strIn.size() / i == i && strIn.size() % i == 0)
 			sqrSize = i;
@@ -26,19 +26,19 @@ int main()
 	for (int i = 0; i < sqrSize; i++)
 		arr[i] = new char[sqrSize];
 
-	for (int i = 0, index = 0; i < sqrSize; i++)
+	for (int i = 0, index = 0; i < sqrSize; i++) // array symbols, size = sqrSize ^ 2
 		for (int j = 0; j < sqrSize; j++)
 		{
 			arr[i][j] = strIn[index++];
 		}
 	int check = strOut.size();
-	for (int i = 0, index = 0; i < sqrSize; i++)
+	for (int i = 0, index = 0; i < sqrSize; i++) 
 	{
 		for (int j = 0; j < sqrSize; j++)
 		{
 			if (index > strOut.size())
 				break;
-			if (arr[i][j] == strOut[index])
+			if (arr[i][j] == strOut[index]) // if символ есть в массиве, то выписывается адресс
 			{
 				index++;
 				//cout << "[" << i << "," << j <<  "] ->";
